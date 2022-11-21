@@ -1,0 +1,8 @@
+C:\Users\raghu\Desktop\c#\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.AssemblyReference.cache
+C:\Users\raghu\Desktop\c#\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.SuggestedBindingRedirects.cache
+C:\Users\raghu\Desktop\c#\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\raghu\Desktop\c#\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\raghu\Desktop\c#\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\raghu\Desktop\c#\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\raghu\Desktop\c#\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\raghu\Desktop\c#\Assignment4\Assignment4\obj\Debug\Assignment4.pdb

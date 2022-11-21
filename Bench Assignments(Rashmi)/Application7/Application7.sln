@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phmApplication7", "phmApplication7\phmApplication7.csproj", "{D61E820A-6676-40DB-8F83-0CB0B02816E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D61E820A-6676-40DB-8F83-0CB0B02816E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D61E820A-6676-40DB-8F83-0CB0B02816E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D61E820A-6676-40DB-8F83-0CB0B02816E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D61E820A-6676-40DB-8F83-0CB0B02816E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F318EF8-72C8-43E0-9D18-02EAFBD242F2}
+	EndGlobalSection
+EndGlobal
